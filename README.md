@@ -1,19 +1,31 @@
 <h1 align="center">Hi 👋, I'm Nhat</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=minhnhat308&label=Profile%20views&color=0e75b6&style=flat" alt="minhnhat308" /> </p>
+# 👩‍💻 Nguyễn Hoàng Minh Nhật
 
-- 🔭 I’m currently working on [https://github.com/MinhNhat308](https://github.com/MinhNhat308)
+Hi there! I'm **@LeThiYenVi** — a curious coder, a passionate learner, and a lifelong explorer in the world of tech.
 
-- 👯 I’m looking to collaborate on [https://github.com/MinhNhat308](https://github.com/MinhNhat308)
+---
 
-- 🤝 I’m looking for help with [https://github.com/MinhNhat308](https://github.com/MinhNhat308)
+## ✨ About Me
 
-- 💬 Ask me about **React, Tailwinds, Boostrap, HTML, CSS**
+- 🔭 I’m currently working on personal and collaborative web development projects.
+- 🌱 I’m exploring React, Node.js, and testing frameworks like CodeceptJS.
+- 📫 How to reach me: minhnhat3082001winds@gmail.com
+- 😄 Pronouns: **he/him**
+- ⚡ Fun fact: I can debug better with music and a cup of matcha ☕🎶
 
-- 📫 How to reach me **minhnhat3082001winds@gmail.com**
+---
 
-- ⚡ Fun fact **I think Im so funny, helpful**
+## 💡 Skills & Tools
+
+- **Languages**: JavaScript, TypeScript, C/C++, Java, HTML/CSS
+- **Frameworks/Libraries**: React, Tailwind CSS, Node.js
+- **Testing**: CodeceptJS, Playwright
+- **Others**: Git, GitHub, Figma, Postman
+
+---
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
