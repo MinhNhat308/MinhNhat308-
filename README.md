@@ -3,7 +3,7 @@
 
 # 👩‍💻 Nguyễn Hoàng Minh Nhật
 
-Hi there! I'm **@LeThiYenVi** — a curious coder, a passionate learner, and a lifelong explorer in the world of tech.
+Hi there! I'm **@NguyenHoangMinhNhat** — a curious coder, a passionate learner, and a lifelong explorer in the world of tech.
 
 ---
 
@@ -37,3 +37,16 @@ Hi there! I'm **@LeThiYenVi** — a curious coder, a passionate learner, and a l
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhnhat308&show_icons=true&locale=en&layout=compact" alt="minhnhat308" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhnhat308&show_icons=true&locale=en" alt="minhnhat308" /></p>
+
+
+## 📂 Projects
+
+Check out some of my featured work in the pinned repositories section. I love building tools that solve real problems, and I’m always open to collaboration!
+
+---
+
+## 🙋‍♀️ Let’s Connect!
+
+Feel free to reach out if you’d like to chat about code, collaborate on a project, or just share memes.
+
+📧 **Email**: minhnhat3082001winds@gmail.com 
